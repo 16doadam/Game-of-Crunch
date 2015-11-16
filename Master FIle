@@ -1,6 +1,6 @@
 public class Crunch
 {
-  int  sticks = 21; // number sticks
+  int sticks = 21; // number sticks
   int turn = 0; // whose turn
   
 }
